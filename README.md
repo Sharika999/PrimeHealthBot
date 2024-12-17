@@ -1,8 +1,4 @@
 # healthcare-chatbot
-## Important Note !!
-Please note that the project is no longer maintained. 
-If anyone wants to expand it further, simply clone it to your own local , make changes and push to your own github account. 
+PrimeHealthBot is an AI-powered chatbot that provides instant health advice based on common symptoms. 
 
-Thanks all !!! 
-
-a chatbot based on sklearn where you can give a symptom and it will ask you questions and will tell you the details and give some advice.
+It offers actionable solutions like medication suggestions and lifestyle recommendations to help users manage daily health concerns.
